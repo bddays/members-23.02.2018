@@ -8,7 +8,7 @@
 - Добавить свою заявку в README.md (таблица ниже)
 - Отправить ее нам.
 
-Пример оформления заявки [=>](https://github.com/bddays/members-23.02.2018/blob/dev/sample.md)
+Пример оформления заявки [=>](https://github.com/bddays/members-23.02.2018/blob/dev/SAMPLE.md)
 
 Можно принять участие как solo либо в составе команды до 4 человек.
 
