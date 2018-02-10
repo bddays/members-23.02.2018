@@ -16,4 +16,4 @@ BDD Members 23.02.2018
 ======================
 | Telegram @username (участника или всей команды) | GitHub account | О себе | Репозиторий |
 |-------------------------------------------------|----------------|--------|-------------|
-| [@chinchilla_killa](https://t.me/chinchilla_killa) | [AleksandrMihhailov](https://github.com/AleksandrMihhailov) | Someone who want to make world better. | - |
+| [@sashamihhailov](https://t.me/sashamihhailov) | [AleksandrMihhailov](https://github.com/AleksandrMihhailov) | Someone who want to make world better. | - |
