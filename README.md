@@ -17,3 +17,4 @@ BDD Members 23.02.2018
 | Telegram @username (участника или всей команды) | GitHub account | О себе | Репозиторий |
 |-------------------------------------------------|----------------|--------|-------------|
 | [@sashamihhailov](https://t.me/sashamihhailov) | [AleksandrMihhailov](https://github.com/AleksandrMihhailov) | Someone who want to make world better. | - |
+| [@wsmichel](https://t.me/wsmichel) | [Михаил Ерохов](https://github.com/MixailE) | Creator | - |
