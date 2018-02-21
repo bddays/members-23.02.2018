@@ -18,3 +18,4 @@ BDD Members 23.02.2018
 |-------------------------------------------------|----------------|--------|-------------|
 | [@sashamihhailov](https://t.me/sashamihhailov) | [AleksandrMihhailov](https://github.com/AleksandrMihhailov) | Someone who want to make world better. | - |
 | [@alexei_qwerty](https://t.me/alexei_qwerty) | [Apyr](https://github.com/Apyr) | Хочу вкатиться в это Ваше (отсылка к Толику) обучение машин и прокатиться на хайпе криптовалют | - |
+| [@wsmichel](https://t.me/wsmichel) | [Михаил Ерохов](https://github.com/MixailE) | Creator | - |
