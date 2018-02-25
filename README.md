@@ -21,4 +21,4 @@ BDD Members 23.02.2018
 | [@wsmichel](https://t.me/wsmichel) | [Михаил Ерохов](https://github.com/MixailE) | Creator | - |
 | [@worldxaker](https://t.me/worldxaker) | [Дмитрий Скрыльников](https://github.com/skrylnikov) | JS паграмист | - |
 | [@edk55](https://t.me/edk55) | [Евгений Коробков](https://github.com/edk55) | Человек | - |
-| [@johnnykramer](https://t.me/johnnykramer) | [Kuzmychev Petro](https://github.com/johnnykramer) | javascript developer | - |
+| [@johnnykramer](https://t.me/johnnykramer) | [Kuzmychev Petro](https://github.com/johnnykramer) | javascript developer | [тут](https://github.com/johnnykramer/who-is-in-space) |
